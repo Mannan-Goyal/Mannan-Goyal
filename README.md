@@ -13,20 +13,19 @@
 
 ### Connect with me:
 
-<img alt="Mannan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/GoyalMannan"/>
+[<img alt="Mannan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/GoyalMannan"/>][twitter]
 &nbsp;
-<img alt="Mannan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/mannan-goyal-1235751bb/"/>
+[<img alt="Mannan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/mannan-goyal-1235751bb/"/>][linkedin]
 &nbsp;
-<img alt="Mannan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/mannan_goyal/"/>
+[<img alt="Mannan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/mannan_goyal/"/>][instagram]
 &nbsp;
-<img alt="Mannan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="facebook.com/mannan.goyal.5"/>
+[<img alt="Mannan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="facebook.com/mannan.goyal.5"/>][facebook]
 &nbsp;
-<img alt="Mannan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" href="mailto:mannangoyal15@gmail.com"/>
-
+[<img alt="Mannan | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" href="mailto:mannangoyal15@gmail.com"/>][gmail]
 <br />
 
 ### Languages and Tools:
-
+<p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 &nbsp;
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -57,7 +56,7 @@
 &nbsp;
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 &nbsp;
-
+</p>
 <br />
 <br />
 
@@ -67,4 +66,11 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mannan-Goyal&show_icons=true&hide_border=true" />
 
+---
+
+[twitter]: https://twitter.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[facebook]: facebook.com/mannan.goyal.5
+[gmail]: mailto:mannangoyal15@gmail.com
 
