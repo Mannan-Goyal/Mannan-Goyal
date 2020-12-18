@@ -13,15 +13,15 @@
 
 ### Connect with me:
 
-[<img alt="Mannan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/GoyalMannan"/>][twitter]
+[<img alt="Mannan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 &nbsp;
-[<img alt="Mannan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/mannan-goyal-1235751bb/"/>][linkedin]
+[<img alt="Mannan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /"/>][linkedin]
 &nbsp;
-[<img alt="Mannan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/mannan_goyal/"/>][instagram]
+[<img alt="Mannan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /"/>][instagram]
 &nbsp;
-[<img alt="Mannan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="facebook.com/mannan.goyal.5"/>][facebook]
+[<img alt="Mannan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 &nbsp;
-[<img alt="Mannan | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" href="mailto:mannangoyal15@gmail.com"/>][gmail]
+[<img alt="Mannan | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 
 ### Languages and Tools:
@@ -68,9 +68,9 @@
 
 ---
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/GoyalMannan
+[instagram]: https://instagram.com/mannan_goyal
+[linkedin]: https://www.linkedin.com/in/mannan-goyal-1235751bb/
 [facebook]: facebook.com/mannan.goyal.5
 [gmail]: mailto:mannangoyal15@gmail.com
 
