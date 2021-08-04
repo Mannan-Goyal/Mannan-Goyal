@@ -7,10 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums and football
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mannan Spotify Playing" width="350" />](https://open.spotify.com/user/31w2rbtck6heottp6hho2fvvszxm)
-
 ### Connect with me:
 
 [<img alt="Mannan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -57,12 +53,6 @@
 </p>
 <br />
 <br />
-
----
-
-#### GitHub Stats
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mannan-Goyal&show_icons=true&hide_border=true" />
 
 ---
 
