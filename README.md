@@ -59,7 +59,7 @@
 
 [twitter]: https://twitter.com/GoyalMannan
 [instagram]: https://instagram.com/mannan_goyal
-[linkedin]: https://www.linkedin.com/in/mannan-goyal-1235751bb/
+[linkedin]: https://www.linkedin.com/in/mannan-goyal/
 [facebook]: facebook.com/mannan.goyal.5
 [gmail]: mailto:mannangoyal15@gmail.com
 
