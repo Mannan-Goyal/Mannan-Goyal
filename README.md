@@ -3,6 +3,7 @@
 ## I'm a Student, Developer, and a Drummer!!
 
 - 🌱 I’m currently learning everything 🤣
+- 🌱 Playing ctfs with team [csictf](https://ctftime.org/team/77170/), writeups [here](https://github.com/csivitu/CTF-Write-ups).
 - 👯 I’m looking to collaborate with other developers and participate in events
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums and football
